@@ -1,2 +1,10 @@
-# PromptPal
-PromptPal: Your customizable teleprompter. Adjust text, speed, and background color for smooth speech delivery.
+## PromptPal
+
+This app was created using https://getmocha.com.
+Need help or want to join the community? Join our [Discord](https://discord.gg/shDEGBSe2d).
+
+To run the devserver:
+```
+npm install
+npm run dev
+```
